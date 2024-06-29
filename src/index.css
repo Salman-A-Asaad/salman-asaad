@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Orbitron:wght@400..900&display=swap");
+* {
+  font-family: "Orbitron", sans-serif;
+}
+
+body {
+  overflow-x: hidden;
+  background-color: hsl(228, 15%, 20%);
+}
+a {
+  color: hsl(228, 8%, 65%);
+}
+a:hover {
+  color: hsl(163, 100%, 40%);
+}
